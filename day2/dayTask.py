@@ -92,3 +92,4 @@ rag_chain = (
 )
 
 rag_chain.invoke({"query": query})
+print(query)
